@@ -40,9 +40,10 @@
 ---
 
 ### Featured Lab
-![cashio Stats](https://readme-stats-github.pages.dev/api/repo?username=blue-mix&repo=cashio&theme=dark)
-![anchor Stats](https://readme-stats-github.pages.dev/api/repo?username=blue-mix&repo=anchor&theme=dark)
-![VitalTrack Stats](https://readme-stats-github.pages.dev/api/repo?username=blue-mix&repo=VitalTrack&theme=dark)
+* **[Cashio](https://github.com/blue-mix/Cashio)** – Personal finance tracker focused on local-first data privacy and reactive UI using **Jetpack Compose** and **Realm DB**.
+* **Field Op Tracker** – High-precision tracking system utilizing **Google Maps SDK** and **Foreground Services**.
+* **[Anchor](https://github.com/blue-mix/Anchor)** – Exploring P2P and local network media streaming protocols (**DLNA/UPnP**).
+* **[Vitals Tracker](https://github.com/blue-mix/Vitals)** – Health monitoring assignment utilizing **Room Persistence**.
 
 ---
 
