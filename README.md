@@ -42,10 +42,7 @@
 ---
 
 ###  GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blue-mix&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blue-mix&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" height="150" />
-</div>
+![GitHub Stats](https://streak-stats.demolab.com?user=blue-mix&theme=default&hide_border=true)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=blue-mix.blue-mix&" />
