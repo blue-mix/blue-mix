@@ -9,38 +9,48 @@
   </p>
 </div>
 
-### Technical Skills
+### Technical Stack
 
-**Mobile Development**
-- **Languages:** Kotlin, Java, Python
-- **UI Frameworks:** Jetpack Compose, XML
-- **Local Databases:** Room DB, Realm DB, SQLite
-- **Maps & Location:** Google Maps SDK, Foreground Services, Geofencing
-
-**Backend & Infrastructure**
-- **Frameworks:** Spring Boot, Node.js, Express
-- **BaaS & Cloud:** Supabase, Firebase
-- **Databases:** PostgreSQL, MongoDB
-
-**Tools & Architecture**
-- **Version Control:** Git, GitHub Actions
-- **Design:** Figma
-- **Patterns:** MVVM, MVI, Clean Architecture, SOLID Principles
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="springboot" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
+</div>
 
 ---
 
 ### Featured Lab
-* **[Cashio](https://github.com/blue-mix/Cashio)** – Personal finance tracker focused on local-first data privacy and reactive UI using Jetpack Compose.
-* **Field Op Tracker** – High-precision tracking system utilizing Google Maps SDK and Foreground Services for seamless background updates.
-* **[Anchor](https://github.com/blue-mix/Anchor)** – Exploring P2P and local network media streaming protocols (DLNA/UPnP).
-* **[Vitals Tracker](https://github.com/blue-mix/Vitals)** – Health monitoring assignment utilizing Room Persistence and automated alert logic.
+* **[Cashio](https://github.com/blue-mix/Cashio)** – Personal finance tracker focused on local-first data privacy and reactive UI using **Jetpack Compose** and **Room DB**.
+* **Field Op Tracker** – High-precision tracking system utilizing **Google Maps SDK** and **Foreground Services**.
+* **[Anchor](https://github.com/blue-mix/Anchor)** – Exploring P2P and local network media streaming protocols (**DLNA/UPnP**).
+* **[Vitals Tracker](https://github.com/blue-mix/Vitals)** – Health monitoring assignment utilizing **Room Persistence** and **Realm DB**.
 
 ---
 
 ### Current Sprint
-- Transitioning into Backend Development with Spring Boot and Node.js.
-- Deep diving into Data Structures & Algorithms for performance optimization.
-- Implementing Supabase as a primary backend for upcoming mobile projects.
+- Transitioning into Backend Development with **Spring Boot** and **Node.js/Express**.
+- Deep diving into **Data Structures & Algorithms** for performance optimization.
+- Implementing **Supabase** for real-time data synchronization.
 
 ---
 
