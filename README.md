@@ -2,11 +2,11 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Hi,%20I'm%20Ashish%20&fontSize=70&fontColor=FFFFFF&theme=cobalt" />
 </div>
 
-<p align="left">
+<p align="center">
   <strong>Android Engineer | specialized in Kotlin & Jetpack Compose</strong><br>
 </p>
 
-### 🛠️ Technical Stack
+###  Technical Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin" />
   <img width="10" />
